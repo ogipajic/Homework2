@@ -9,3 +9,5 @@ Second homework
 * Screenshots of photos
 * Style folder with all css
 * Sematic HTML
+* New screenshots in assets folder
+* Portfolio page

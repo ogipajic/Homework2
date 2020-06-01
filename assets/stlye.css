@@ -20,3 +20,13 @@ footer {
     margin-top: 50px;
     position: sticky;
 }
+#cont2{
+    border: 1px solid gray;
+    padding: 10px;
+    margin-top: 40px;
+    background-color: white;
+    margin-right: 15px;
+    margin-left: 15px;
+    
+
+}
