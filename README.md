@@ -11,3 +11,4 @@ Second homework
 * Sematic HTML
 * New screenshots in assets folder
 * Portfolio page
+* Ading css to portfolio page
