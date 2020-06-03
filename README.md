@@ -12,3 +12,4 @@ Second homework
 * New screenshots in assets folder
 * Portfolio page
 * Ading css to portfolio page
+* Added contact and css 
